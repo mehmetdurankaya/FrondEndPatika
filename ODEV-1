@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mehmet Duran Kaya</title>
+  </head>
+  <body>
+<div class="wrapper">  <!-- Kapsayıcı bir div tag' i oluşturuldu   -->
+        
+    <h1>Mehmet Duran Kaya</h1> <!-- Başlık oluşturuldu  -->
+        <h2>Hakkımda</h2>     <!-- alt başlık olarak oluşturuldu   -->
+        <hr>
+        <!-- paragraf oluşturuldu   -->
+    <p>  &emsp; &emsp; 46 yaşındayım Hatay ilinin Antakya ilçesinde yaşıyordum evliyim iki çocuğum var
+        Patikadev organizasyonunun açmış olduğu bu programa katılmak için başvurdum ve kabul edilmem benim için <br>
+        Çok büyük bir mutluluk oldu. <br>
+       <!-- Satır başınını iki tab içeriden başlaması sağlandı   -->
+        &emsp; &emsp; 6 Şubat 2023 depreminden sonra sadece evimin değil dünyamın yıkıldığını yeni farkediyorum Arkadaşlarımın, beraber yaşadığım onlarca insanın öldüğünü yeni yeni öğreniyorum <br>
+        Ayağa kalkmak için mücadele veriyorum kodlayarak ençok sevdiğim, hobi olarak yaptığım yazılım geliştirme işini İş edinmek istiyor ve profesyonel olarak çalışmak istiyorum şimdi bu uğurda çalışıyorum ve ne enterasandır ki  <br>
+        okuduğumu çabucak anlıyor ve anladığımı kodluyorum neredeyse bütün zamanımı kodlamaya ayırdım 6 aylık bu bootcamp bittiiğinde backend ve frontend' e dair  (araç kutuma) ekleyebildiğim kadar toolları  eklemek istiyorum.<br>
+        ve bu hedef doğrultusunda çok kararlı adımlarla ilerliyorum.Film izlemeyi seviyorum özellikle bilim kurgu filmlerine bayılıyorum. <br></p>
+
+        <h3>Sevdiğim Filmler</h3><!-- alt başlık olarak oluşturuldu   -->
+         <p> <b>Matrix:</b> Bu filmin bir çığır açtığını düşünüyorum benim kodlama merakım bu filmden sonra oluştu </p>
+        <p>&emsp; &emsp; Matrix filminde iyi bir yazılım şirketinde çalışmakta olan Thomas Anderson gece olduğunda Neo adındaki bir program kırmaya çalışarak ve Matrix araştırması yaparak günlerini geçirmektedir. İlginç bir şekilde<br>
+           Trinity ile Morpheus’la tanışan Neo hayatının yaşamakta olduğu dünyanın gerçekte sadece beyninde gerçekleşmekte olan bir simülasyon olduğunu öğrenir ve böylece kendini bu durumdan çıkarmak adına <br>
+           Morpheus'un önderliğindeki bir ekibe katılmaktadır.Matrix dizisindeki Neo asıl dünyada ilk nefes aldıktan sonra bu simülasyona tekrar girer ve Matrix'in ne olduğunu kavramaya çalışır. Bu filmdeki olaylar teknolojinin <br>
+           son derece gelişmekte olduğu çok ileri bir tarihte yaşanmakta ve yapay zekaya sahip olan makinelerin yaratıldığı bir dünya üzerinde geçmektedir.Filmin konusu bu şekilde devam etmekte olup türü bilimkurgudur.</p>
+             
+    </div>
+  </body>
+</html>
